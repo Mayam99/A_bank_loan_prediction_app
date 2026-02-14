@@ -2,28 +2,3 @@ streamlit
 pandas
 scikit-learn
 joblib
-
-
-
-
-
-Streamlitapp
-
-
-https://aloanpredictionapp-eapfrxd8q3pylc34xeckxy.streamlit.app/
-
-
-
-
-
-cell 30
-
-from sklearn.ensemble import RandomForestClassifier
-
-# 1. Initialize and Train Random Forest
-# n_estimators=100 means we are building 100 individual trees
-rf_model = RandomForestClassifier(n_estimators=100, random_state=42)
-rf_model.fit(X_train_scaled, y_train)
-
-
-
