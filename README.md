@@ -7,7 +7,7 @@
 An interactive Machine Learning application that predicts the likelihood of loan repayment based on historical borrower data. This project covers the entire pipeline from **SQL Data Extraction** to **Cloud Deployment**.
 
 ## 🚀 Live Demo
-[🔗 Click here to access the Live Web App]([YOUR_STREAMLIT_LINK_HERE](https://abankloanpredictionapp-7pqhzysbn5zt7pmshqycdv.streamlit.app/))
+[🔗 Click here to access the Live Web App](https://abankloanpredictionapp-7pqhzysbn5zt7pmshqycdv.streamlit.app/)
 
 ---
 
